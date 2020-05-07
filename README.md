@@ -12,11 +12,11 @@
 </ul>
 
 <h3>HTML5 e CSS3 parte 2: Posicionamento, listas e navegação</h3>
-<p></p>
+<p>Na segundo curso de HTML e CSS aprofundei meus conhecimentos sobre:</p>
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Estruturar uma página HTML.</li>
+    <li>Criar formas de navegar entre páginas do projeto.</li>
+    <li>Conheci o arquivo reset.css que "zera" todas as configurações de estilo padrão dos navegadores.</li>
+    <li>Entender como posicionar os elementos da forma que necessária (alinhamento, posição relativa, absoluta).</li>
+    <li>Conhecer formas de mudar o estilo da página conforme ação do usuário (hover, active...).</li>
 </ul>
