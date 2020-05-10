@@ -11,7 +11,7 @@ Realizando esse curso tive noções básicas de:
 - Criar uma página web de Barbearia
 
 ###### HTML5 e CSS3 parte 2: Posicionamento, listas e navegação
-Na segundo curso de HTML e CSS aprofundei meus conhecimentos sobre:
+No segundo curso de HTML e CSS aprofundei meus conhecimentos sobre:
 - Estruturar uma página HTML.
 - Criar formas de navegar entre páginas do projeto.
 - Conheci o arquivo reset.css que "zera" todas as configurações de estilo padrão dos navegadores.
@@ -19,3 +19,17 @@ Na segundo curso de HTML e CSS aprofundei meus conhecimentos sobre:
 - Conhecer formas de mudar o estilo da página conforme ação do usuário (hover, active...).
 
 ###### HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
+No terceiro curso de HTML e CSS aprofundei meus conhecimentos sobre:
+- Criar formulários
+- Tipar inputs para facilitar a experiência do usuário
+- Trabalar com tabelas
+- Entender como funciona a hierarquia de formatação do CSS (tag < classe < id < inline)
+- Aprofundar uso das ferramentas disponíveis no CSS (transformações e transições)
+
+###### HTML5 e CSS3 parte 4: Avançando no CSS
+No último curso desse primeiro módulo aprendi coisas como:
+- Importar conteudo externo para o projeto (fontes, mapas e vídeos)
+- Trabalhar com pseudo-classes e pseudo-elementos
+- Usar seletores do CSS
+- Utilizar sombras e opacidade nos elementos
+- Iniciar o conhecimento de viewport e design responsivo
