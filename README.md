@@ -33,3 +33,7 @@ No último curso desse primeiro módulo aprendi coisas como:
 - Usar seletores do CSS
 - Utilizar sombras e opacidade nos elementos
 - Iniciar o conhecimento de viewport e design responsivo
+
+## Módulo 2 - JavaScript, Ajax e jQuery
+
+###### JavaScript: Programando na linguagem da web
